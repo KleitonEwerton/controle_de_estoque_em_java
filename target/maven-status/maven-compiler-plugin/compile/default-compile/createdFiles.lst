@@ -1,0 +1,7 @@
+com\kleitonewerton\controle\RemoveProduto.class
+com\kleitonewerton\controledeestoque\Produto.class
+com\kleitonewerton\controledeestoque\TableProduto.class
+com\kleitonewerton\views\Tela.class
+com\kleitonewerton\controledeestoque\Sistema.class
+com\kleitonewerton\controle\AdicionarProduto.class
+com\kleitonewerton\controle\MudarValor.class
